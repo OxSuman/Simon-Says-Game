@@ -1,5 +1,11 @@
 # Simon-Says-Game
 
-Created a user-friendly interface with responsive design .
-Implemented game logic for random sequence generation, user input handling, and progressive difficulty levels.
-Incorporated sound effects and visual feedback to enhance user interaction and enjoyment.
+Simon-Says-Game is a web-based implementation of the classic memory game "Simon Says". 
+The game generates a sequence of colors and sounds, which the player must reproduce in the correct order. 
+This project uses HTML, CSS, and JavaScript to create an interactive and engaging user experience.
+
+#Features
+   Generates a random sequence of colors and sounds
+   User-friendly interface with visual and auditory feedback
+   Increases the difficulty with each round
+   Keeps track of the user's progress and highest score
